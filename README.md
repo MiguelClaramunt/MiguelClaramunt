@@ -1,4 +1,6 @@
-### Hi there! 👋🏻 I am a Data Science graduate mainly interested in Natural Language Processing and Algorithmic Fairness. During my undergraduate studies I have conducted research related to fake news detection using BERT-based language models. Tangentially, I have also studied the different biases of such models and applied Explanable AI techniques.
+### Hi there! 👋🏻 I'm Miguel
+
+I'm a Data Scientist mainly interested in **Natural Language Processing** and **Algorithmic Fairness**. During my undergraduate studies I have conducted research related to fake news detection using BERT-based language models. Tangentially, I have also studied the different biases of such models and applied Explanable AI techniques.
 
 <!--
 **MiguelClaramunt/MiguelClaramunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

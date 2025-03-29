@@ -9,7 +9,7 @@ Passionate about artificial intelligence, I have experience in research, enginee
 - BSc Data Science - Universitat de València
   - One-year stay at UPF: Spanish exchange program
 
-#### 👨‍💻 Experience
+#### 👨🏻‍💻 Experience
 - Research Engineer at Barcelona Supercomputing Center (Nov 2024 - Present)
 - Data Analyst at SDG Group (Sep 2023 - Apr 2024)
 - Undergraduate Research Assistant at Universitat de València (Apr 2022 - Jul 2022)

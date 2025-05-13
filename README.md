@@ -1,4 +1,4 @@
-### Hello! 👋🏻 Nice to meet you, I am Miguel Claramunt
+# Nice to meet you, I am Miguel Claramunt 👋🏻
 
 Passionate about artificial intelligence, I have experience in research, engineering, and analytics, spanning academia and industry. I thrive on solving complex problems with innovative, data-driven approaches. Currently, I am a Research Engineer at Barcelona Supercomputing Center, contributing to advancements in machine translation.
 
